@@ -76,7 +76,9 @@ export default {
         roboto: ["var(--font-roboto)", "sans-serif"],
       },
 
-      backgroundImage: {},
+      backgroundImage: {
+        "home-hero": "url('/images/hero-img.jpeg')",
+      },
 
       screens: {
         xs: "400px",
@@ -105,7 +107,7 @@ export default {
           },
         },
       },
-      
+
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",

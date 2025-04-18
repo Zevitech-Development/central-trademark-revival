@@ -16,7 +16,7 @@ function Header() {
           className="w-[200px]"
         />
 
-        <Button className="h-[55px] px-8 font-medium hover:bg-primary-hover text-base rounded-[0.5rem] bg-primary">
+        <Button className="h-[55px] px-8 font-bold font-lato hover:bg-primary-hover text-base rounded-[0.5rem] bg-primary">
           Revive Trademark
         </Button>
       </div>
